@@ -29,4 +29,4 @@ Pour jouer à plusieurs : un joueur clique sur « Créer un salon » et donne le
 
 ## Crédits
 
-Modèles et animations de zombies : Mixamo (Adobe). Tout le reste (niveaux, textures, sons) est généré par le code.
+Modèles et animations de zombies : Mixamo (Adobe). Sons : « 9mm pistol shot » (freesound_community, Pixabay), « Lurking horror monster » (alesiadavina, Pixabay), « Deep ambient dread zombie ». Le reste (niveaux, textures, autres sons) est généré par le code.
